@@ -12,7 +12,7 @@
 <br>
 
   
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navedijaz480&label=Profile%20views&color=0e75b6&style=flat" alt="Navedijaz480" /> </p>
 ## Naved Ahmad's Github Stats
 
 <span> ![Naved Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Navedijaz480&theme=tokyonight&show_icons=true&count_private=true) </span>
