@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on *BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, SOLANA - RUST*
+- 🔭 I’m currently working on *BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, JS connectivity - Tron connectivity*
 
 - 🌱 I’m currently learning *BLOCKCHAIN DAPP DECENTRALIZATION*
 
