@@ -1,13 +1,14 @@
 ### Hi Devs 👋
-<h1 align="center">I am Naved Ahmad</h1>
+<h1 align="center">I am Blockchain Developer</h1>
 
 <br>
 
-- 🔭 I’m currently working on *BLOCKCHAIN, SOLIDITY - SMART CONTRACTS, JS connectivity - Tron connectivity*
+- 🔭 I am Naved Ahmad, a blockchain developer passionate about creating decentralized applications. With a diverse skill set including React JS, Node JS, Express JS,  Solidity, Truffle, and Hardhat, I can bring blockchain solutions to life.
 
-- 🌱 I’m currently learning *BLOCKCHAIN DAPP DECENTRALIZATION*
+I have extensive experience in developing decentralized applications (dApps), decentralized finance (DeFi), and decentralized autonomous organizations (DAO), giving me a deep understanding of blockchain technology and its potential. My experience developing the web allows me to create seamless user experiences.
 
-- 🤝 Teach *BLOCKCHAIN DEVELOPMENT* to newbie
+I am constantly seeking new challenges and opportunities to further my expertise in the blockchain space and deliver innovative solutions. Let's build something great together!*
+
 
 <br>
 
